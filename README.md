@@ -22,7 +22,7 @@
 200개의 표본은 모수로부터 균등하게 뽑은 것입니다.
 모수를 대표하는 표본인 것입니다.
 따라서 부트스트랩은 이빨 빠진 표본 분포 사이사이에 이빨을 심어주는 것과 같은 기능을 합니다.
-부트스트랩이 왜 효과가 있는지는 본 링크를 참고하시기 바랍니다. ([Reference2](https://stats.stackexchange.com/questions/26088/explaining-to-laypeople-why-bootstrapping-works))
+부트스트랩이 왜 효과가 있는지는 본 링크를 참고하시기 바랍니다. ([reference](https://stats.stackexchange.com/questions/26088/explaining-to-laypeople-why-bootstrapping-works))
 
 [신뢰구간](https://ko.wikipedia.org/wiki/%EC%8B%A0%EB%A2%B0_%EA%B5%AC%EA%B0%84)이란 모수가 어느 범위 안에 있는지를 확률적으로 보여주는 방법입니다.
 어떤 제조회사의 부품에 대한 95% 신뢰구간이 [100mm, 120mm]라고 한다면, 부품이 100mm와 120mm 사이에 있을 것이라고 95% 확신할 수 있습니다.
